@@ -10,6 +10,9 @@ Although this driver is for PT2314, I highly recommend you use PT2314E if you ar
 LaLiMat is a multi-function Pixel Display, similar to LaMetric Time/Awtrix, more details can be found here : 
 https://www.youtube.com/playlist?list=PLJBKmE2nNweRXOebZjydkMEiq2pHtBMOS (in Chinese)
 
+# Are there any doc for this driver
+The short answer is NO. I am sharing this on GitHub because I don't have time to do additional work. However, I have added sufficient comments in the code. If you still have questions, you can ask, but please don't expect a reply (because I have already forgotten what I did before :P, sorry for that).
+
 # How I say thanks if I found this useful
 - Give me a star
 - Buy me a coffee https://www.paypal.com/paypalme/ykchau
