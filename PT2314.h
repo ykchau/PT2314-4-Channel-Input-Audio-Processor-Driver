@@ -1,3 +1,12 @@
+/*
+	Project  : LaLiMat project (https://www.youtube.com/playlist?list=PLJBKmE2nNweRXOebZjydkMEiq2pHtBMOS in Chinese)
+ 	file     : PT2314.h
+	Author   : ykchau
+ 	youtube  : youtube.com/ykchau888
+  	Licenese : GPL-3.0
+   	Please let me know if you use it commercial project.
+*/
+
 #ifndef PT2314_H_
 #define PT2314_H_
 
