@@ -1,6 +1,7 @@
 # PT2314-Driver
 This is a basic driver of PT2314, for the LaLiMat Project, and is based on Arduino or ESP
 For easy reuse in other projects, I didn't make it specific for LaLiMat, so you can use this in your project with little modification. 
+I wrote some Basic functions which allow you to control the PT2314 from I2C.
 
 # Note
 Although this driver is for PT2314, I highly recommend you use PT2314E if you are using it's I2C, because there are some problems with the original PT2314 chips during I2C communication.
